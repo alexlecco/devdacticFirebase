@@ -1,0 +1,17 @@
+{
+  "name": "devdacticFirebase",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "firebase": "^3.4.0",
+    "react": "15.3.2",
+    "react-native": "0.33.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-plugin-react": "^6.3.0"
+  }
+}
