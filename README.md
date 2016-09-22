@@ -1,0 +1,2 @@
+# devdacticFirebase
+React Native App
